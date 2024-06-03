@@ -1,4 +1,5 @@
 Alfonso Romero
 learning coding
 Auto save prove
-Credntial prove
+Credential prove
+seting credential
